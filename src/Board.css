@@ -1,0 +1,13 @@
+.Board {
+  margin: 20px auto;
+  display: table;
+  border-spacing: 5px;
+}
+
+.Board-winner {
+  text-align: center;
+  font-size: 24px;
+  color: green;
+  font-weight: bold;
+  margin-top: 20px;
+}
